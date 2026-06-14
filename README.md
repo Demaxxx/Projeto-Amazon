@@ -7,7 +7,9 @@ Amazon
 INTEGRANTES:
 
 Alice
+
 Edimax Bastos
+
 Erick
 
 DIAGRAMA ER:
