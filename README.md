@@ -1,14 +1,18 @@
 PROJETO FINAL DA DISCIPLINA BANCO DE DADOS I
 
 SISTEMA ESCOLHIDO:
+
   Amazon
 
-INTEGRANTES
+INTEGRANTES:
+
   Alice
   Edimax Bastos
   Erick
 
-DIAGRAMA ER
+DIAGRAMA ER:
 
-COMO RODAR
+
+COMO RODAR:
+
   Copiar o código, ir ao site db-fiddle.com, selecionar a última versão de PostgreSQL, colar o código e clicar em run.
