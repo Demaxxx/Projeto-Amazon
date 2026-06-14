@@ -6,11 +6,11 @@ Amazon
 
 INTEGRANTES:
 
-Alice
+Alice Barros
 
 Edimax Bastos
 
-Erick
+Erick Wilson
 
 DIAGRAMA ER:
 
