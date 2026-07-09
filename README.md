@@ -14,6 +14,7 @@ Erick Wilson - 202511140011
 
 DIAGRAMA ER:
 
+https://app.brmodeloweb.com/publicview/6a4efa3bfe398044fe381e27
 
 COMO RODAR:
 
